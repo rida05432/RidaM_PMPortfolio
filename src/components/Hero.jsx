@@ -21,8 +21,8 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Driven innovator passionate
             <br className="sm:block hidden" />
-            about sustainability, fintech,
-            <br className="sm:block hidden" /> and secure tech.
+            about creating value through 
+            <br className="sm:block hidden" /> product innovation.
           </p>
         </div>
       </div>
